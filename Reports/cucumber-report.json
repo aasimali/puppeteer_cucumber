@@ -1,0 +1,155 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "test-the-puppeteer-website;to-check-the-run-checks-button-functionality",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "To check the Run Checks button functionality",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3386000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Open \"Puppeteer\" website",
+            "match": {
+              "location": "features\\stepDefination\\puppeteerStepDef.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7859000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "User click on \"Run Checks\" button",
+            "match": {
+              "location": "features\\stepDefination\\puppeteerStepDef.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 81000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Verify that User is redirected to the \"GitHub\" page",
+            "match": {
+              "location": "features\\stepDefination\\puppeteerStepDef.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1404000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 856000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@TC1",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "test-the-puppeteer-website;to-check-the-auction-button-functionality",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "To check the Auction button functionality",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 964000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "Open \"Osians\" website",
+            "match": {
+              "location": "features\\stepDefination\\puppeteerStepDef.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 9160000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "User click on \"Auction\" button",
+            "match": {
+              "location": "features\\stepDefination\\puppeteerStepDef.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 161000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "Verify that User is redirected to the \"Auction\" page",
+            "match": {
+              "location": "features\\stepDefination\\puppeteerStepDef.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1136000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1224000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@TC2",
+            "line": 10
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "test-the-puppeteer-website",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Test the Puppeteer website",
+    "tags": [],
+    "uri": "features\\features\\Puppeteer.feature"
+  }
+]

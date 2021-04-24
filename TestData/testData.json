@@ -1,0 +1,13 @@
+{
+    "Urls": {
+        "puppeteer": "https://pptr.dev/",
+        "Protractor": "https://www.protractortest.org/#/",
+        "Osians": "https://www.osians.com/"
+    },
+    "PageTitle": {
+        "puppeteer": "Puppeteer v9.0.0",
+        "protractor": "Protractor - end-to-end testing for AngularJS",
+        "GitHub_puppetter_title": "Actions · puppeteer/puppeteer · GitHub",
+        "Auction": "Osian's Auction House - All Auctions since 1997 | Osian's"
+    }
+}

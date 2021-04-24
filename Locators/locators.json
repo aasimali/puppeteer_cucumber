@@ -1,0 +1,18 @@
+{
+    "runchecks":{
+        "locatorType": "css",
+        "locator": "img[alt='Build status']"
+    },
+    "gitHubNextPage":{
+        "locatorType": "xpath",
+        "locator": "//a[@class='next_page']"
+    },
+    "auction":{
+        "locatorType": "xpath",
+        "locator": "(//a[text()='Auctions'])[1]"
+    },
+    "carousel":{
+        "locatorType": "css",
+        "locator": ".osians-auction-title"
+    }
+}
