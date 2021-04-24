@@ -1,4 +1,4 @@
-# puppeteer_cucumber
+# Puppeteer Cucumber Framework
 1. Clone this Repo 
 2. Go to puppeteer_cucumber folder
 3. Open terminal from the same location
