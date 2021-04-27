@@ -6,7 +6,7 @@
   "scripts": {
     "pretest": "npm install",
     "test": "cucumber-js -f json:./Reports/cucumber-report.json",
-    "posttest": "node ./Reports/report.js"
+    "posttest": "node Reports/report.js"
   },
   "keywords": [
     "Puppeteer",

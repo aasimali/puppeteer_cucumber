@@ -1,6 +1,6 @@
 var browserConf =
 {
-    headless: false,
+    headless: true, //make it false it, if you want to see the execution in browser
     slowMo: 0,
     defaultViewport: null,
     devtools: false,
