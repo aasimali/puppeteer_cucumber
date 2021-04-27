@@ -1,4 +1,4 @@
 node_modules
-Reports/cucumber_report.html
-Reports/cucumber_report.json
+cucumber_report.html
+cucumber_report.json
 package-lock.json
